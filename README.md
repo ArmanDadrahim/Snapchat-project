@@ -1,2 +1,1 @@
-# Snapchat-project
-Getting link
+git clone https://github.com/shuvo-halder/blackeye
